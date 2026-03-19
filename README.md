@@ -27,7 +27,7 @@
 
 - PHP
 - Laravel
-- MySQL
+- SQLITE
 - Blade
 - JavaScript
 - CSS
@@ -71,7 +71,7 @@
 
 - PHP
 - Composer
-- MySQL
+- SQLITE
 - Node.js και npm
 
 ### Βήματα
